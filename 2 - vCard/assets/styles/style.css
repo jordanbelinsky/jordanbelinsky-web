@@ -3360,4 +3360,13 @@ button:focus {
   border-radius: 0.0625rem;
   height: 100%;
 }
+
+.company__name {
+  background: var(--color-gradient-text);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 400;
+  font-style: italic;
+}
 /*# sourceMappingURL=style.css.map */
